@@ -1,13 +1,13 @@
 
 # program file
-![program file](CSCAN_510.py)
+![program file](CSCAN_566.py)
 
 # program code 
-![program code](CSCAN_CODE_510.png)
+![program code](CSCAN_CODE_566.png)
 
 # sample output
-![sample output](CSCAN_IO_510.png)
+![sample output](CSCAN_IO_566.png)
 
 # executed output
-![executed output](CSCAN_EO_510.png)
+![executed output](CSCAN_EO_566.png)
 
