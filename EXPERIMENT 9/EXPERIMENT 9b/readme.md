@@ -1,11 +1,11 @@
 # program file
-![program file](SJF_510.py)
+![program file](SJF_566.py)
 
 # program code 
-![program code](SJF_CODE_510.jpg)
+![program code](SJF_CODE_566.jpg)
 
 # sample output
-![sample output](SJF_IO_510.jpg)
+![sample output](SJF_IO_566.jpg)
 
 # executed output
-![executed output](SJF_EO_510.jpg)
+![executed output](SJF_EO_566.jpg)
