@@ -1,13 +1,13 @@
 
 # program file
-![program file](sequential_510.py)
+![program file](sequential_566.py)
 
 # program code 
-![program code](sequential_CODE_510.png)
+![program code](sequential_CODE_566.png)
 
 # sample output
-![sample output](sequential_IO_510.png)
+![sample output](sequential_IO_566.png)
 
 # executed output
-![executed output](sequential_EO_510.png)
+![executed output](sequential_EO_566.png)
 
