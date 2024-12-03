@@ -1,11 +1,11 @@
 # program file
-![program file](worst_fit_505.py)
+![program file](worst_fit_566.py)
 
 # program code 
-![program code](worst_fit_CODE_505.png)
+![program code](worst_fit_CODE_566.png)
 
 # sample output
-![sample output](worst_fit_IO_505.png)
+![sample output](worst_fit_IO_566.png)
 
 # executed output
-![executed output](worst_fit_EO_505.png)
+![executed output](worst_fit_EO_566.png)
